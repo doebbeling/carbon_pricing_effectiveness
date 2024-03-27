@@ -3,8 +3,10 @@ Systematic review and meta-analysis of ex-post evaluations on the effectiveness 
 
 The publication of the findings of this project is forthcoming. The publication will be linked here. More information on the method and findings can be found in the linked research article.
 
-The data collected for the project is provided before any transformations were conducted (CMinc_raw) as well as after harmonisation (CMinc_final). Both datasets are provided as CSV as well as RData formats.
-The R skripts were used for data cleaning and harmonisation (effect_size_harmonisation) and for the mata-analysis (meta_analysis).
+We provide meta-data for all screened documents. Screened documents form the title and abstract screening together with their inclusion decision and screening order are provided in screening_data.csv. For full text screening the documents are split into excluded documents (CMexc) and included documents. Included documents are provided together with the extracted study and effect size information as specified below.  
+
+The study and effect size information is provided before any transformations were conducted (CMinc_raw) as well as after harmonisation (CMinc_final). Both datasets are provided as CSV as well as RData formats.
+The R skripts were used for data harmonisation (effect_size_harmonisation) and for the mata-analysis (meta_analysis).
 
 The provided code can be run in any R application (i.e. RStudio). It was written and executed using the below specified versions of R and the packages.
 The code should not require any specific hardware, operating systems or software dependencies other than the R packages specified below.
