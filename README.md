@@ -1,7 +1,10 @@
 # carbon_pricing_effectiveness
 Systematic review and meta-analysis of ex-post evaluations on the effectiveness of carbon pricing
 
-The publication of the findings of this project is forthcoming. The publication will be linked here. More information on the method and findings can be found in the linked research article.
+The findings of this project are published in:
+Döbbeling-Hildebrandt, N., Miersch, K., Khanna, T.M., Bachelet, M., Bruns, S., Callaghan, M., Edenhofer, O., Flachsland, C., Forster, P., Kalkuhl, M., Koch, N., Lamb, W., Ohlendorf, N., Steckel, J.C., Minx, J.C. (2024) Systematic review and meta-analysis of ex-post evaluations on the effectiveness of carbon pricing. Nat Commun 15, 4147. https://doi.org/10.1038/s41467-024-48512-w.
+
+More information on the method and findings can be found in the linked research article. 
 
 We provide meta-data for all screened documents. Screened documents form the title and abstract screening together with their inclusion decision and screening order are provided in screening_data.csv. For full text screening the documents are split into excluded documents (CMexc) and included documents. Included documents are provided together with the extracted study and effect size information as specified below.  
 
